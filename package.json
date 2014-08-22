@@ -1,0 +1,16 @@
+{
+  "name": "ltidal-skeleton",
+  "description": "literate tidal skeleton",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/ltidal-skeleton.git"
+  },
+  "homepage": "https://github.com/nbqx/ltidal-skeleton",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-connect": "^2.0.6",
+    "gulp-pandoc": "^0.2.0"
+  }
+}
